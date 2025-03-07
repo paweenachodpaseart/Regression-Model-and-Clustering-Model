@@ -1,3 +1,7 @@
+<div id="header" align="center">
+ <img src="https://github.com/paweenachodpaseart/Regression-Model-and-Clustering-Model/blob/main/tomato.jpg?raw=true"width="900"/>
+</div>
+
 # Regression-Model-and-Clustering-Model
 Analyze the impact of tomato production on agricultural energy consumption
 
