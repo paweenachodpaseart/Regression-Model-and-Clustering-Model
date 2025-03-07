@@ -11,16 +11,16 @@ Analyze the impact of tomato production on agricultural energy consumption
 - Time Period: 1991 - 2021
 - Data Size: 310 rows, 4 columns
 #### 2. Data Analysis Methods
-##### 1. Outlier Detection
-- Analyzed outliers in tomato production volume and energy consumption for each country.
-##### 2. Relationship Analysis
-- Used scatter plots to examine the relationship between tomato production and energy consumption.
-##### 3. Polynomial Regression Model
-- Tested different polynomial degrees to find the most suitable model.
-- Evaluated model performance using Adjusted R-squared and RMSE.
-##### 4. K-Means Clustering for Country Classification
-- Tested clustering into 2, 3, and 4 groups.
-- Assessed clustering quality using Dunn Index, Silhouette Score, and Calinski-Harabasz Index.
+  1. Outlier Detection
+     - Analyzed outliers in tomato production volume and energy consumption for each country.
+  2. Relationship Analysis
+     - Used scatter plots to examine the relationship between tomato production and energy consumption.
+  3. Polynomial Regression Model
+     - Tested different polynomial degrees to find the most suitable model.
+     - Evaluated model performance using Adjusted R-squared and RMSE.
+  4. K-Means Clustering for Country Classification
+     - Tested clustering into 2, 3, and 4 groups.
+     - Assessed clustering quality using Dunn Index, Silhouette Score, and Calinski-Harabasz Index.
 
 #### 4. Results and Conclusion
 - Polynomial Regression Model
@@ -34,7 +34,7 @@ Analyze the impact of tomato production on agricultural energy consumption
 
 --- 
 
-### Conclusion
+### 📑Conclusion
 - There is a correlation between tomato production volume and energy consumption in the agricultural sector.
 - The Polynomial Regression Model effectively explains data trends.
 - K-Means Clustering successfully classifies countries with similar production and energy usage behaviors.
